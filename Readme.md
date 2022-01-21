@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97476912/150467189-04511fe5-68e3-4863-bbcc-b0adec12c850.png)
+
 # DifferNet
 
 This is the official repository to the WACV 2021 paper "[Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](
